@@ -6,7 +6,7 @@ WARNING: This repository contains only a small fraction of the actual code. Non-
 
 ### What is this repository for? ###
 
-* This is a sample of an implementation of the tetris game designed in Java for assignment credits in CS6366.001 at UT Dallas in Fall 2017. It is designed with NetBeans IDE.
+* This is a sample of an implementation of the tetris game designed in using the NetBeans IDE.
 * Version 1.0
 
 ### Who do I talk to? ###
